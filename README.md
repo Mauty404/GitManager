@@ -1,0 +1,2 @@
+# GitManager
+Console app
